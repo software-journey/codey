@@ -1,6 +1,6 @@
 # Codey
 
-Materials and episode folders for the **“R2-D2 creation with Codey”** series.
+Materials and episode folders for the **“[R2-D2 creation with Codey](https://dev.to/wvanheemstra/series/40592)”** series.
 
 ## Container Harbour episodes
 
